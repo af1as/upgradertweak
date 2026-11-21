@@ -1,2 +1,12 @@
-# upgradertweak
-A Fabric patch for eepy Upgrader that prevents upgrading uncollected items.
+# UpgraderTweak
+
+Этот мод-патч изменяет работу известного мода **eepy Upgrader**. 
+
+## 📌 В чём суть?
+Теперь игрок не сможет получить в апгрейдере предметы, которые он никогда не подбирал в игре. Это полностью исключает фарм на дешевых предметах и получение элитр/алмазов «из воздуха».
+
+## ⚙️ Установка
+1. Установите Fabric Loader для Minecraft 26.2.
+2. Скачайте оригинальный мод `eepy-upgrader-1.0.1.jar`.
+3. Скачайте `upgradertweak-1.0.0.jar` из раздела **[Releases](../../releases)**.
+4. Поместите оба файла в папку `mods` на клиенте и на сервере.
